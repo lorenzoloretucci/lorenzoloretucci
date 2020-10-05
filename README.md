@@ -1,4 +1,6 @@
+<!--<h3 align='center'>
 ![](https://github.com/lorenzoloretucci/lorenzoloretucci/blob/main/top.png)
+</h3>-->
 
 Here are some ideas to get you started:
 
