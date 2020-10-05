@@ -1,4 +1,4 @@
-### Hi! Welcome to my profile 👋
+![](https://github.com/lorenzoloretucci/lorenzoloretucci/blob/main/top.png)
 
 Here are some ideas to get you started:
 
