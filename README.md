@@ -2,7 +2,7 @@
 <img src='https://github.com/lorenzoloretucci/lorenzoloretucci/blob/main/top.png'>
 </p>
 
-<h3 align="center">A passionate Data Scientist from Rome</h3>
+<h2 align="center">A passionate Data Scientist from Rome</h2>
 
 - 🌱 I’m currently learning **New Machine Learning and Neural Networks stuff**
 
