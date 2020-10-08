@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **New Machine Learning and Neural Networks stuff**
 
-- 📫 How to reach me **lorenzo.loretucci@gmail.com**
+- 📫 How to reach me: **lorenzo.loretucci@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
