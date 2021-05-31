@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://github.com/lorenzoloretucci/lorenzoloretucci/blob/main/top.png'>
+<img src='https://github.com/lorenzoloretucci/lorenzoloretucci/blob/main/logo.png'>
 </p>
 
 <h2 align="center">A passionate Data Scientist from Rome</h2>
